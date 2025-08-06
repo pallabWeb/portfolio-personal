@@ -79,8 +79,8 @@ export const AboutSection = () => {
                   </div> */}
                   
                   <a
-                    href="/src/assets/Pallab's Resume.pdf"
-                    download
+                    href="/PallabMondalResume.pdf"
+                    download="Pallab_Mondal_Resume.pdf"
                     className="inline-flex items-center"
                   >
                     <Button variant="outline" size="lg" className="group">
