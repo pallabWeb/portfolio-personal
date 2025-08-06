@@ -64,8 +64,8 @@ function Navbar() {
 
           {/* CV Button with hover icon - hidden on mobile */}
           <a
-            href="/src/assets/PallabMondalResume.pdf"
-            download
+            href="/PallabMondalResume.pdf"
+            download="Pallab_Mondal_Resume.pdf"
             className="hidden sm:flex items-center justify-center px-4 py-2 sm:px-5 sm:py-2 lg:px-[2.1vw] lg:py-[0.7vw] text-xs sm:text-sm lg:text-[0.8vw] text-foreground bg-muted border-none rounded-full sm:rounded-xl lg:rounded-[2.6vw] cursor-pointer font-medium no-underline hover:bg-muted/80 transition-all group relative overflow-hidden"
           >
             <span className="group-hover:opacity-0 group-hover:scale-75 transition-all duration-300">CV</span>
@@ -98,8 +98,8 @@ function Navbar() {
           <div className={`sm:hidden absolute left-4 right-4 mt-2 bg-card/95 backdrop-blur-sm border border-border/50 rounded-2xl p-4 shadow-lg transition-all duration-300 ${showBanner ? 'top-full' : 'top-full'}`}>
             <div className="flex flex-col space-y-3">
               <a
-                href="/src/assets/PallabMondalResume.pdf"
-                download
+                href="/PallabMondalResume.pdf"
+                download="Pallab_Mondal_Resume.pdf"
                 className="flex items-center justify-center gap-2 px-4 py-3 text-sm text-foreground bg-muted rounded-xl font-medium no-underline hover:bg-muted/80 transition-all group"
                 onClick={() => setIsMenuOpen(false)}
               >
