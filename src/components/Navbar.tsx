@@ -245,7 +245,7 @@ function Navbar() {
               document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
             }}
           >
-            Contact <span className="px-1 sm:px-2 lg:px-[0.3vw] text-muted-foreground/60">/</span>
+            Contact
           </a>
 
         </div>
