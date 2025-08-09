@@ -9,12 +9,12 @@ import project3 from "@/assets/project-3.jpg";
 
 const projects = [
   {
-    title: "Modern Dashboard Website",
+    title: "School Management System",
     description: "A comprehensive analytics dashboard built with React and TypeScript, featuring real-time data visualization, responsive design, and intuitive user experience.",
     image: project1,
-    technologies: ["React", "TypeScript", "Tailwind CSS", "Chart.js"],
+    technologies: ["HTML","CSS","JavaScript", "Bootstrap", "PHP", "SenfGrid API","PHPspreadsheet","FPDF","Razorpay"],
     githubUrl: "https://github.com",
-    liveUrl: "https://example.com"
+    liveUrl: "https://sunshine.firstjobkhabar.com/home/"
   },
   {
     title: "Legal AI Assistence Website",
