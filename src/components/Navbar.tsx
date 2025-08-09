@@ -12,7 +12,7 @@ function Navbar() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowBanner(false);
-    }, 5000);
+    }, 10000);
 
     // Cleanup timer if component unmounts or showBanner changes
     return () => clearTimeout(timer);
