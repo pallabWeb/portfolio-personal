@@ -24,15 +24,3 @@ A modern, fully responsive **personal portfolio website** built to showcase my s
 
 ### **Tools & Platforms**
 - AWS, Git, GitHub, Vercel, npm, VS Code
-
-## 📂 Folder Structure
-```plaintext
-portfolio-personal/
-│-- public/         # Static assets
-│-- src/
-│   │-- components/ # Reusable UI components
-│   │-- pages/      # Page sections (About, Projects, Contact, etc.)
-│   │-- styles/     # Global styles
-│   └-- utils/      # Helper functions
-│-- package.json
-│-- README.md
