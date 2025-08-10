@@ -10,7 +10,7 @@ import project3 from "@/assets/project-3.jpg";
 const projects = [
   {
     title: "School Management System",
-    description: "A comprehensive analytics dashboard built with React and TypeScript, featuring real-time data visualization, responsive design, and intuitive user experience.",
+    description: "This full-stack application provides a centralized solution for managing students, teachers, courses, and administrative tasks efficiently.",
     image: project1,
     technologies: ["HTML","CSS","JavaScript", "Bootstrap", "PHP", "SenfGrid API","PHPspreadsheet","FPDF","Razorpay"],
     githubUrl: "https://github.com",
@@ -25,12 +25,12 @@ const projects = [
     liveUrl: "https://example.com"
   },
   {
-    title: "React Data Visualization",
-    description: "Interactive data visualization tool that transforms complex datasets into beautiful, understandable charts and graphs with custom filtering and export features.",
+    title: "First Job Khabar | Wordpress",
+    description: "First Job Khabar is a website that provides a platform for job seekers to find and apply for various job opportunities.",
     image: project3,
-    technologies: ["React", "D3.js", "Python", "FastAPI"],
-    githubUrl: "https://github.com",
-    liveUrl: "https://example.com"
+    technologies: ["Wordpress", "HTML", "CSS", "PHP", "Javascript"],
+    githubUrl: "https://github.com/pallabWeb",
+    liveUrl: "https://firstjobkhabar.com"
   }
 ];
 
