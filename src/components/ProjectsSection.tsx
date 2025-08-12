@@ -18,11 +18,11 @@ const projects = [
   },
   {
     title: "Legal AI Assistence Website",
-    description: "Full-stack e-commerce solution with user authentication, payment processing, inventory management, and admin dashboard.",
+    description: "A web platform designed to simplify understanding of legal documents by providing clear, concise summaries and explanations. Built with modern web technologies, it enhances accessibility to legal information for individuals and businesses, making complex terms easier to grasp.",
     image: project2,
-    technologies: ["React", "Node.js", "MongoDB", "Stripe"],
+    technologies: ["React", "Node.js", "Superbase", "Express", "Gemini API"],
     githubUrl: "https://github.com",
-    liveUrl: "https://example.com"
+    liveUrl: "https://legalease-chi.vercel.app/"
   },
   {
     title: "First Job Khabar | Wordpress",
